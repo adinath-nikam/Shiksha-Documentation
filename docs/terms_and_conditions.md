@@ -16,7 +16,7 @@ Welcome to SHIKक्षा App, an Edtech initiaive towards E-Learning.
 
 Terms and Conditions for SHIKक्षा Mobile App
 
-Effective date: [Insert effective date]
+Effective date: 01-07-2023
 
 Please read these Terms and Conditions ("Terms") carefully before using the SHIKक्षा mobile app. These Terms govern your use of the app and constitute a legally binding agreement between you ("User" or "you") and SHIKक्षा ("we," "us," or "our"). By accessing or using the app, you agree to be bound by these Terms. If you do not agree with any part of these Terms, you may not use the app.
 
