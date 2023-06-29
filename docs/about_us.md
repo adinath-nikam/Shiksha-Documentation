@@ -1,3 +1,4 @@
+
 <center>
 
 ## **SHIKक्षा App**
@@ -13,4 +14,4 @@ Welcome to SHIKक्षा App, an Edtech initiaive towards E-Learning.
 
 ## About SHIKक्षा Mobile App
 
-This is About Us Text
+Developer: [👽 Extraterrestrial](https://github.com/adinath-nikam)
